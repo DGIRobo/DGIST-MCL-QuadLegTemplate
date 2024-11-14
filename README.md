@@ -1,1 +1,1 @@
-# DGIST-MCL-RobotLegTemplate
+# DGIST-MCL-QuadLegTemplate
